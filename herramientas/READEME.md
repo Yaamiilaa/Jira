@@ -1,1 +1,0 @@
-# ¿Qué son las herramientas CI/DC?
