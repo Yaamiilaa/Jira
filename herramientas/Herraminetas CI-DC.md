@@ -1,11 +1,11 @@
 # HERRAMIENTAS CI/DC
 # Índice:
 - [¿Qué son las herramientas CI/DC?](#herramientas)
-    - [Diferencias entre la integración, la distribución y la implementación continuas.](#direrencias)
+    - [Diferencias entre la integración, la distribución y la implementación continuas.](#diferencias)
         - [Integración continua](#integracion)
         - [Distribución continua](#distribucion)
         - [Implementación continua](#implementacion)
-- [Webgrafía](#Webgrafia)
+- [Webgrafía](#webgrafia)
 
 # ¿Qué son las herramientas <a name="herramientas"></a> CI/DC?
 La CI/CD es un método para distribuir las aplicaciones a los clientes con frecuencia mediante el uso de la automatización en las etapas del desarrollo de las aplicaciones. Los principales conceptos que se le atribuyen son la integración, la distribución y la implementación continuas.
@@ -31,5 +31,5 @@ La última etapa del proceso consolidado de CI/CD es la implementación continua
 
 En la práctica, los cambios que implementan los desarrolladores en la aplicación en la nube podrían ponerse en marcha unos cuantos minutos después de su creación (siempre que hayan pasado las pruebas automatizadas). Esto facilita mucho más la recepción e incorporación permanente de los comentarios de los usuarios. En conjunto, todas estas prácticas de CI/CD permiten que se implementen las aplicaciones con menos riesgos, ya que es más fácil incorporar los cambios en las aplicaciones de a poco, en lugar de hacerlo todo de una sola vez. Sin embargo, también deben realizarse muchas inversiones iniciales, ya que se deben diseñar las pruebas automatizadas para que se adapten a las distintas etapas de prueba y lanzamiento en el canal de la CI/CD.
 
-### Webgrafía.
+### Webgrafía <a name="webgrafia"></a>.
 - https://www.redhat.com/es/topics/devops/what-is-ci-cd
