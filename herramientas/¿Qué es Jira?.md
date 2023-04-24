@@ -25,3 +25,4 @@ Es el módulo que se enfoca completamente en la gestión de proyectos. En este m
 
 ## Jira service desk <a name="service"></a>
 Es un servicio de atención al cliente o mesa de ayuda a través del cual la empresa y sus clientes pueden comunicarse de manera efectiva para resolver cualquier problema o problema que pueda tener el cliente. Sirve una brecha que une estas dos figuras.
+
