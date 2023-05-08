@@ -5,6 +5,7 @@
 - [¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?](#grupo)
 - [¿Qué ofrece?](#ofrece)
 - [Plan de precio](#precio)
+- [Ejemplo de integración con repositorios de código](#codigo)
 
 # Introduccion <a name="introduccion"></a>
 Jira es un producto de software propietario para la gestión de proyectos, seguimiento de errores e incidencias. La herramienta fue desarrollada por la empresa australiana Atlassian.
@@ -29,4 +30,10 @@ Es importante destacar que JIra no es especificamente una herramineta CI/DC, sin
 Jira Software proporciona herramientas de planificación y hojas de ruta para que los equipos puedan gestionar a las partes interesadas, los presupuestos y los requisitos de las funciones desde el primer día.
 
 # Plan de precio. <a name="precio">
+
+![<Imagen 1>](<https://github.com/Yaamiilaa/Jira/blob/main/img/plan_de_precios_jira.png>)
+
+# Ejemplo de integración con repositorios de código. <a name="codigo">
+
+La integración entre Jira y el repositorio de código se puede configurar utilizando un **plugin** de Jira o una aplicación de terceros. 
 
