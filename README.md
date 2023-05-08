@@ -6,6 +6,7 @@
 - [¿Qué ofrece?](#ofrece)
 - [Plan de precio](#precio)
 - [Ejemplo de integración con repositorios de código](#codigo)
+- [Ejemplo de documentación de proyectos](#documentacion)
 
 # Introduccion <a name="introduccion"></a>
 Jira es un producto de software propietario para la gestión de proyectos, seguimiento de errores e incidencias. La herramienta fue desarrollada por la empresa australiana Atlassian.
@@ -36,4 +37,18 @@ Jira Software proporciona herramientas de planificación y hojas de ruta para qu
 # Ejemplo de integración con repositorios de código. <a name="codigo">
 
 La integración entre Jira y el repositorio de código se puede configurar utilizando un **plugin** de Jira o una aplicación de terceros. 
+
+
+![<Imagen 1>](<https://github.com/Yaamiilaa/Jira/blob/main/img/jira-see-code.png>)
+
+
+# Ejemplo de documentación de proyectos. <a name="documentacion">
+
+Las categorías en las ediciones de Jira le permiten distribuir fácilmente sus documentos y ubicarlos instantáneamente cuando sea necesario . La configuración flexible le permite variar la visibilidad de las categorías según los tipos de problemas. También puede tener categorías restringidas para documentos confidenciales que estarán disponibles para usuarios específicos
+
+
+Jira se creó teniendo en cuenta las mejores prácticas de Agile y Scrum. Sus funciones se adaptan y distribuyen de manera inteligente de acuerdo con los roles del proyecto con paneles para líderes de equipo, miembros del equipo y administradores de Jira.
+
+
+Marketplace facilita la búsqueda de aplicaciones e integraciones relevantes para su equipo. Si tiene herramientas específicas para conectarse a Jira, búsquelas en la página de inicio de Marketplace . Alternativamente, puede mostrar aplicaciones aplicando filtros como los mejor calificados y las tendencias.
 
