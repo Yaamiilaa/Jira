@@ -17,7 +17,7 @@
 - [Comparativa con otras herramientas](#comparativa)
 - [¿Por qué escoger la herramienta frente a otras?](#escoger)
 
-<div align="justify">
+
 
 # Introduccion <a name="introduccion"></a>
 Jira es un producto de software propietario para la gestión de proyectos, seguimiento de errores e incidencias. La herramienta fue desarrollada por la empresa australiana Atlassian.
@@ -75,7 +75,7 @@ Jira Software se integra con herramientas propias y de terceros durante todo el 
 <center><img width=150px src='https://github.com/Yaamiilaa/Jira/blob/main/img/Sin%20t%C3%ADtulo.png'></center>
 <center><img width=150px src='https://github.com/Yaamiilaa/Jira/blob/main/img/bitbucket_Logo.png'></center>
 </div>
-</div>
+
 
 # Comparativa con otras herramientas. <a name='comparativa'>
 
