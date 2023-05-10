@@ -1,9 +1,9 @@
-<div align="justify">
+
 
 # Jira
 
 <div align="center">
-<center><img width=150px src='https://github.com/Yaamiilaa/Jira/blob/main/img/images.png'></center>
+<center><img width=250px src='https://github.com/Yaamiilaa/Jira/blob/main/img/images.png'></center>
 
 ## índice:
 - [Introducción.](#introduccion)
@@ -16,6 +16,8 @@
 - [Otras herramientas con las que se integra](#otras)
 - [Comparativa con otras herramientas](#comparativa)
 - [¿Por qué escoger la herramienta frente a otras?](#escoger)
+
+<div align="justify">
 
 # Introduccion <a name="introduccion"></a>
 Jira es un producto de software propietario para la gestión de proyectos, seguimiento de errores e incidencias. La herramienta fue desarrollada por la empresa australiana Atlassian.
