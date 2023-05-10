@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Jira
 
 <div align="center">
@@ -95,3 +97,5 @@ Hay varias razones por la que escoger Jira frente aotras herramientas. A continu
 5. **Personalización**: Jira es altamente personalizable y se puede adaptar a las necesidades específicas de cada equipo y proyecto. 
 
 En resumen, Jira es una herramienta de gestión de proyectos avanzada que ofrece una amplia variedad de funciones avanzadas, escalabilidad, integración con otras herramientas de Atlassian, una comunidad activa y una alta xapacidad de personalización. Estas características lo hacen ideal para queipos de desarrollo que requieren una solución personalizada y escalable para su flujo de trabajo y proyectos. 
+
+</div>
