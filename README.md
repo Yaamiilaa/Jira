@@ -2,8 +2,9 @@
 
 # Jira
 
-
+<div align='center'>
 <center><img width=300px src='https://github.com/Yaamiilaa/Jira/blob/main/img/images.png'></center>
+</div>
 
 
 ## índice:
