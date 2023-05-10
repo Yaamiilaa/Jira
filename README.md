@@ -11,6 +11,8 @@
 - [Ejemplo de integración con repositorios de código](#codigo)
 - [Ejemplo de documentación de proyectos](#documentacion)
 - [Otras herramientas con las que se integra](#otras)
+- [Comparativa con otras herramientas](#comparativa)
+- [¿Por qué escoger la herramienta frente a otras?](#escoger)
 
 # Introduccion <a name="introduccion"></a>
 Jira es un producto de software propietario para la gestión de proyectos, seguimiento de errores e incidencias. La herramienta fue desarrollada por la empresa australiana Atlassian.
@@ -69,3 +71,23 @@ Jira Software se integra con herramientas propias y de terceros durante todo el 
 <center><img width=150px src='https://github.com/Yaamiilaa/Jira/blob/main/img/bitbucket_Logo.png'></center>
 </div>
 </div>
+
+# Comparativa con otras herramientas. <a name='comparativa'>
+
+
+| Herramientas | **JIRA** | **TRELLO** | **GITHUB** |
+|--------------|----------|------------|------------|
+| Característica calve | Gestión de tareas, planificación de proyectos... | Gestión de tareas visual mediante tarjetas y tableros | Plataforma de desarrollo de software, alojamiento de proyectos y gestión de código fuente |
+| Ventajas | Conjunto de características para proyectos de software complejos y equipos grandes | Fácil de usar por su interfaz interactiva | Enfoque en la gestión de código fuente y la colaboración en equipo | 
+| Desventajas | Interfaz de usuarios más compleja y difícil de usar que algunas herramientas más simples | Nos ofrece tantas características avanzadas como Jira para proyectos complejos | Nos ofrece tantas características avanzadas como Jira para proyectos complejos |
+| Precio | A partir de $7 por usuario/mes | Gratis para uso personal y a partir de $10 por usuario/mes para planes empresariales | Gratis para proyectos de código abierto, a partir de $4 por usuario/mes para planes empresariales |
+
+# ¿Por qué escoger la herramienta frente a otras? <a name='escoger'>
+Hay varias razones por la que escoger Jira frente aotras herramientas. A continuación nombraremos algunas de ellas:
+1. **Amplia variedad de funciones avanzadas**: Esto lo hace ideal para proyectos complejos y equipos de desarrollo grandes.
+2. **Integración con otras herramientas de Atlassian**: Esto permite a los equipos trabajar en un entorno unificado y colaborativo. 
+3. **Escalabilidad**: Jira se puede utilizar en una variedad de proyectos y equipos de diferentes tamaños y niveles de complejidad.
+4. **Comunidad activa**: Jira tiene una comunidad activa formada por desarrolladores y usuarios que ofrecen soporte, recursos y complementos personalizados para ampliar las funciones de la herramienta. 
+5. **Personalización**: Jira es altamente personalizable y se puede adaptar a las necesidades específicas de cada equipo y proyecto. 
+
+En resumen, Jira es una herramienta de gestión de proyectos avanzada que ofrece una amplia variedad de funciones avanzadas, escalabilidad, integración con otras herramientas de Atlassian, una comunidad activa y una alta xapacidad de personalización. Estas características lo hacen ideal para queipos de desarrollo que requieren una solución personalizada y escalable para su flujo de trabajo y proyectos. 
