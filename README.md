@@ -2,6 +2,9 @@
 
 # Jira
 
+<div align="center">
+<center><img width=150px src='https://github.com/Yaamiilaa/Jira/blob/main/img/images.png'></center>
+
 ## índice:
 - [Introducción.](#introduccion)
 - [¿Qué son las herramientas CI/DC?](#herramientas)
