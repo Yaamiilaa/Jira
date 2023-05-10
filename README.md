@@ -60,11 +60,11 @@ Marketplace facilita la búsqueda de aplicaciones e integraciones relevantes par
 # Otras herramientas con las que se integra. <a name='otras'>
 Jira Software se integra con herramientas propias y de terceros durante todo el ciclo de vida de DevOps, incluidas herramientas de control del código y de las versiones, como Bitbucket, GitHub y Gitlab; herramientas de gestión de la documentación y del conocimiento, como Confluence; y herramientas de supervisión y operaciones, como Opsgenie. Jira Software también se integra con herramientas de diversas categorías para ayudar a los equipos de DevOps a lanzar mejor software más rápidamente.
 
-<center>https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png</center>
+<center><img src = 'https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png'></center>
 
 
-<center>https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png</center>
+<center><img src='https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png'></center>
 
 
-<center>https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png</center>
+<center><img src='https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png'></center>
 
