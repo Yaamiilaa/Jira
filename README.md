@@ -1,9 +1,7 @@
-
-
 # Jira
 
 <div align="center">
-<center><img width=250px src='https://github.com/Yaamiilaa/Jira/blob/main/img/images.png'></center>
+<center><img width=300px src='https://github.com/Yaamiilaa/Jira/blob/main/img/images.png'></center>
 
 ## índice:
 - [Introducción.](#introduccion)
