@@ -7,6 +7,7 @@
 - [Plan de precio](#precio)
 - [Ejemplo de integración con repositorios de código](#codigo)
 - [Ejemplo de documentación de proyectos](#documentacion)
+- [Otras herramientas con las que se integra](#otras)
 
 # Introduccion <a name="introduccion"></a>
 Jira es un producto de software propietario para la gestión de proyectos, seguimiento de errores e incidencias. La herramienta fue desarrollada por la empresa australiana Atlassian.
@@ -51,4 +52,19 @@ Jira se creó teniendo en cuenta las mejores prácticas de Agile y Scrum. Sus fu
 
 
 Marketplace facilita la búsqueda de aplicaciones e integraciones relevantes para su equipo. Si tiene herramientas específicas para conectarse a Jira, búsquelas en la página de inicio de Marketplace . Alternativamente, puede mostrar aplicaciones aplicando filtros como los mejor calificados y las tendencias.
+
+
+![<Imagen 1>](<https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png>)
+
+
+# Otras herramientas con las que se integra. <a name='otras'>
+Jira Software se integra con herramientas propias y de terceros durante todo el ciclo de vida de DevOps, incluidas herramientas de control del código y de las versiones, como Bitbucket, GitHub y Gitlab; herramientas de gestión de la documentación y del conocimiento, como Confluence; y herramientas de supervisión y operaciones, como Opsgenie. Jira Software también se integra con herramientas de diversas categorías para ayudar a los equipos de DevOps a lanzar mejor software más rápidamente.
+
+<center>https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png</center>
+
+
+<center>https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png</center>
+
+
+<center>https://github.com/Yaamiilaa/Jira/blob/main/img/Captura%20de%20pantalla_2023-05-08_18-26-56.png</center>
 
